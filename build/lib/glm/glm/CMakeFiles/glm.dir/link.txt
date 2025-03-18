@@ -1,2 +1,0 @@
-D:/3rdParty/mingw64/bin/ar.exe qc libglm.a CMakeFiles/glm.dir/detail/glm.cpp.obj
-D:/3rdParty/mingw64/bin/ranlib.exe libglm.a
