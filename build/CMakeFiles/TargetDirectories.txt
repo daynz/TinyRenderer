@@ -1,0 +1,8 @@
+D:/Study/Render/TinyRenderer/build/CMakeFiles/TinyRenderer.dir
+D:/Study/Render/TinyRenderer/build/CMakeFiles/edit_cache.dir
+D:/Study/Render/TinyRenderer/build/CMakeFiles/rebuild_cache.dir
+D:/Study/Render/TinyRenderer/build/lib/glm/CMakeFiles/edit_cache.dir
+D:/Study/Render/TinyRenderer/build/lib/glm/CMakeFiles/rebuild_cache.dir
+D:/Study/Render/TinyRenderer/build/lib/glm/glm/CMakeFiles/glm.dir
+D:/Study/Render/TinyRenderer/build/lib/glm/glm/CMakeFiles/edit_cache.dir
+D:/Study/Render/TinyRenderer/build/lib/glm/glm/CMakeFiles/rebuild_cache.dir
